@@ -23,7 +23,7 @@
   <web>ProjectsCode</web>
   <name>ProjectsCodeTranslations</name>
   <language/>
-  <defaultLanguage/>
+  <defaultLanguage>en</defaultLanguage>
   <translation>0</translation>
   <parent>ProjectsCodeClass</parent>
   <creator>xwiki:XWiki.Admin</creator>

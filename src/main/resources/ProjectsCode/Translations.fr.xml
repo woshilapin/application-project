@@ -25,7 +25,7 @@
   <language>fr</language>
   <defaultLanguage>en</defaultLanguage>
   <translation>1</translation>
-  <parent/>
+  <parent>WebHome</parent>
   <creator>xwiki:XWiki.Admin</creator>
   <author>xwiki:XWiki.Admin</author>
   <customClass/>
